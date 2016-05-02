@@ -11,10 +11,7 @@
     <!-- Styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link href="css/slider1.css" rel="stylesheet" />
-    <link href="css/slider2.css" rel="stylesheet" />
-    <link href="css/slider3.css" rel="stylesheet" />
-    <link rel='stylesheet' id='prettyphoto-css' href="css/prettyPhoto.css" type='text/css' media='all'>
+   <link rel='stylesheet' id='prettyphoto-css' href="css/prettyPhoto.css" type='text/css' media='all'>
     <link href="css/fontello.css" type="text/css" rel="stylesheet">
     <!--[if lt IE 7]>
             <link href="css/fontello-ie7.css" type="text/css" rel="stylesheet">
@@ -125,7 +122,7 @@
             <div class="panel">
                 <div class="row">
 
-                    <div class="span6">
+                    <div class="span4">
                         <h2> Trailer Hire</h2>
                         <h3>"ONE WAY HIRE" of GP Trailers to any part of Zimbabwe</h3>
                         <p>* A variety of trailers including refrigerated trailers for special occasions are waiting for you. </p>
@@ -134,12 +131,21 @@
                         <p>* To check availability of trailers drop us a call or WhatsApp us we refer you to our closest depot to you.</p>
                     </div>
                     <!-- /.span3 -->
-                    <div class="span6">
+                    <div class="span4">
                         <h2>Welding</h2>
                         <p>* Execution or handling of customer jobs efficiently</p>
                         <p>* Fields services on customer's nominated site or locality..</p>
                         <p>* Execution or handling of customer jobs efficiently.</p>
                         
+                    </div>
+                    <div class="span4">
+                        <h2>Ancillary Services</h2>
+                        <p>* Writing or drawing up Business Plans.                                                                                                  </p>
+                        <p>* Writing funding Proposals.                                                                                                             </p>
+                        <p>* Writing Event Management formats for any event of your choice.                                                                         </p>
+                        <p>* Drawing up programs or projects of Aids Service Organizations (ASOs) for funding from either Government or the Donor Community.        </p>
+                        <p>* Drawing up or writing Constitutions or Terms of Reference of Community Based Organizations (CBOs) and Faith Based Organizations (FBOs).</p>
+                        <p>* Drawing up or designing Constitutions of STOKVELS                                                                                      </p>
                     </div>
                 </div>
 
@@ -365,7 +371,7 @@
                     <div class="featurette">
                         <h2 class="featurette-heading"><span class="muted">...... a little about Greaterman Punungwe?</span></h2>
                         <p>Greaterman Punungwe being a teacher by profession took heed of the Government of the Republic of South Africa call to participate in the streamline economy of the country.                                                                                                                                                                                                              </p>
-                        <p> The participation is pronounced in the BBBEE ,(Broad Based Black Economic Empowerment) act, founded the company(GP Trailers(pty)Ltd)  in 2014.The Company GP Trailers(pty) Ltd is a legal entity on its own registered under CIPCO , Registration number 2014/171240/07, SARS TAX Number 9785030165.From humble beginnings today GP Trailers (pty) Ltd has realised its market share.  </p>
+                        <p> The participation is pronounced in the BBBEE ,(Broad Based Black Economic Empowerment) act, founded the company(GP Trailers(pty)Ltd)  in 2014.The Company GP Trailers(pty) Ltd is a legal entity on its own registered under CIPCO , Registration number 2014/171240/07, SARS TAX Number 9785030165. From humble beginnings today GP Trailers (pty) Ltd has realised its market share.  </p>
                         <p>GP Trailers(pty) Ltd says "We are what we are today because of your support,whether big or small your support is valuable to us"                                                                                                                                                                                                                                                         </p>
                         <p>    OUR VALUABLE CUSTOMERS ,OUR CARING CUSTOMERS  WE THANK IN ADVANCE FOR YOUR ENDLESS SUPPORT.                                                                                                                                                                                                                                                                                          </p>
                     </div>
@@ -498,7 +504,6 @@
         <!-- ./container -->
     </div>
     <!-- Loading the javaScript at the end of the page -->
-    <script src="js/custom.js"></script>
     <script type="text/javascript" src="js/flexslider.js"></script>
 <script type="text/javascript" src="js/carousel.js"></script>
     <script type="text/javascript" src="js/bootstrap.js"></script>
