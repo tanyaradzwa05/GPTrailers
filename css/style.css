@@ -308,6 +308,10 @@ ul#menu-main > li > a:hover {
 	font-weight: 400;
 	margin: 1em 0;
 }
+#headerwrap img {
+    width: 450px;
+    height: 450px;
+}
 #headerwrap h2 {
 	color: #FFFFFF;
 	font-family: 'Open Sans', sans serif;
@@ -464,7 +468,7 @@ section#portfolio .align {
 /* Services */
 
 section#services {
-	padding-bottom: 9.5em;
+	/*padding-bottom: 9.5em;*/
 }
 #services h1 {
 	font-size: 3em;

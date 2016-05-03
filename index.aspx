@@ -57,11 +57,12 @@
                     <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
                     <nav class="pull-right nav-collapse collapse">
                         <ul id="menu-main" class="nav">
+                            <li><a href="#top">Home</a></li>
                             <li><a title="services" href="#services">Services</a></li>
                             <li><a title="vacancies" href="#vacancies">Vacancies</a></li>
                             <li><a title="team" href="#team">Team</a></li>
+                             <li><a title="about" href="#about">About</a></li>
                             <li><a title="contact" href="#contact">Contact</a></li>
-                            <li><a title="about" href="#about">About</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -77,6 +78,7 @@
     <div id="headerwrap">
         <header class="clearfix">
             <h1><span>GP Trailers</span> </h1>
+            <img src="img/logo/gptrailersColour.png"/>
             <h1>"Home of Reliable Trailers"</h1>
             <div class="container">
 
@@ -175,8 +177,9 @@
             <!-- /.row -->
         </div>
         <!-- /.container -->
+        <hr>
     </section>
-    <hr>
+    
     <!--******************** vacancies Section ********************-->
     <section id="vacancies" class="single-page scrollblock">
         <div class="container">
