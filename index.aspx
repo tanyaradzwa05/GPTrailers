@@ -192,7 +192,7 @@
                     <article class="span4 post">
                         <img class="img-vacancies" src="img/JObs.jpg" alt="">
                         <div class="inside">
-                            <p class="post-date"><i class="icon-calendar"></i> March 1, 2016
+                            <p class="post-date"><i class="icon-calendar"></i> July 1, 2016
                             </p>
                             <h2>Welders (Trailers) x 2 posts</h2>
                             <div class="entry-content">
@@ -244,7 +244,7 @@
                     <article class="span4 post">
                         <img class="img-vacancies" src="img/JObs.jpg" alt="">
                         <div class="inside">
-                            <p class="post-date">March 1, 2016</p>
+                            <p class="post-date">July 1, 2016</p>
                             <h2>Assistant Welders x 2 posts</h2>
                             <div class="entry-content">
                                 <button class="accordion">A.Requirements.</button>
@@ -290,7 +290,7 @@
                     <article class="span4 post">
                         <img class="img-vacancies" src="img/JObs.jpg" alt="">
                         <div class="inside">
-                            <p class="post-date">March 01, 2016</p>
+                            <p class="post-date">July 01, 2016</p>
                             <h2>Office Administrator</h2>
                             <div class="entry-content">
                                 <button class="accordion">A.Requirements.</button>
