@@ -37,7 +37,7 @@ div, article, section, header, footer, nav, li {
 	visibility:hidden; /* For clearing */
 }
 body {
-	background:#f0f0f0;
+	background:/*#f0f0f0*/#ccc;
 	color: #312A1E;
 	font-size: 100%;
 	font-family: 'Quattrocento', serif;
@@ -256,11 +256,16 @@ em {
 }
 .navbar-inverse .navbar-inner {
 	background-repeat: repeat;
-	background-color: #0b333f;
-	border-color: #f0bf00;
+	background-color: /*#0b333f*/#EEEEEE;
+	border-color: /*#f0bf00*/#EC2028;
 }
 .navbar-wrapper {
 	overflow:hidden;/* No fixed height, will break collapsible nav */
+}
+.navbar-inner img {
+    width: 100px;
+    height: 100px;
+    float: left;
 }
 #menu-main {
 	margin-top: 1.125em;
@@ -269,10 +274,10 @@ ul#menu-main > li > a {
 	font-family: 'Patua One', cursive;
 	font-weight: normal;
 	font-size: 1em;
-	color: #fff;
+	color: /*#fff*/ #329DD3;
 }
 ul#menu-main > li > a:hover {
-	background: #f0bf00;
+	background: #CCCCCC;
 	padding: 9px 15px;
 	border-radius: 3px;
 	-webkit-border-radius: 3px;
@@ -312,7 +317,7 @@ ul#menu-main > li > a:hover {
 	text-shadow: 1px 1px 1px #333333;
 }
 #headerwrap h1 span {
-	color:#f0bf00;
+	color:/*#f0bf00*/#329DD3;
 }
 #headerwrap input[type=text] {
 	background: rgba(227, 231, 228, 1);
@@ -378,7 +383,7 @@ section.single-page h1 {
 	font-size: 2.25em; /* 36px */
 }
 #feature {
-	background: url("../img/yellow.png") repeat-x 0 0;
+	background: /*url("../img/yellow.png") repeat-x 0 0*/ #329DD3;
 	height: 406px;
 	z-index: 500;
 	box-shadow: 0 5px 16px rgba(0, 0, 0, 0.3);
@@ -507,7 +512,7 @@ section#services .span3:hover {
 
 section#testimonials {
 	height:  647px;
-	background: url("../img/yellow_testimonial.png") repeat-x 0 0;
+	background: #329DD3;
 	padding: 0;
 	color: #e4e5e2;
 	z-index: 500;
@@ -632,6 +637,11 @@ section#team .align, section#contact .align {
 #about .featurette {
     text-align: center;
 	font-size: 20px;
+}
+section#about .align {
+	text-align:center;
+	margin-top:10px;
+	font-size: 6em;
 }
 /* Contact Form */
 

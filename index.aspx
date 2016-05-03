@@ -31,7 +31,7 @@
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="shortcut icon" href="img/gptrailersColour - Icon.png">
     <!-- JQuery -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <!-- Load ScrollTo -->
@@ -53,7 +53,7 @@
                 <div class="container">
                     <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
                     <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
-                    <h1 class="brand"><a href="#top">GP Trailers!</a></h1>
+                     <a href="#top"><img  src="img/logo/gptrailersColour - Small.png"/></a>
                     <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
                     <nav class="pull-right nav-collapse collapse">
                         <ul id="menu-main" class="nav">
@@ -357,7 +357,7 @@
 
                 <!-- ./span2 -->
                 <div class="span12">
-                    <div class="teamalign"> <img class="team-thumb img-circle" src="" alt=""> </div>
+                    <div class="teamalign"> <img class="team-thumb img-circle" src="img/mrPProfile.jpg" alt=""> </div>
                     <h3>Mr Punungwe</h3>
                     <div class="job-position">Owner</div>
                 </div>
@@ -388,7 +388,7 @@
      <!--******************** About Section ********************-->
     <section id ="about" class="single-page scrollblock">
         <div class="container">
-            <div class="align" ><i class="icon-exclamation-sign"></i></div>
+            <div class="align" ><i class="icon-alert"></i></div>
             <button class="accordion">
                 <h1>About</h1></button>
             <div class="panel" >
@@ -446,6 +446,7 @@
                 </div></div class="panel">
         </div>
     </section>
+    <hr/>
     <!--******************** Contact Section ********************-->
     <section id="contact" class="single-page scrollblock">
         <div class="container">
