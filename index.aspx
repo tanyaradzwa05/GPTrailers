@@ -358,10 +358,15 @@
             <div class="row">
 
                 <!-- ./span2 -->
-                <div class="span12">
+                <div class="span6">
                     <div class="teamalign"> <img class="team-thumb img-circle" src="img/mrPProfile.jpg" alt=""> </div>
-                    <h3>Mr Punungwe</h3>
+                    <h3>Greaterman Punungwe</h3>
                     <div class="job-position">Owner</div>
+                </div>  
+                <div class="span6">
+                    <div class="teamalign"> <img class="team-thumb img-circle" src="img/nhokwara.jpg" alt=""> </div>
+                    <h3>Gibson Nhokwara</h3>
+                    <div class="job-position">Manager</div>
                 </div>
                 <!-- ./span2 -->
                 <!-- ./span2 -->
